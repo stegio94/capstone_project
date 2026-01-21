@@ -139,6 +139,8 @@ the project demonstrates a complete data analysis workflow, from raw data to ins
 👤 Author
 
 Stefano
+
+
 Final Capstone Project
 Premier League Data Analysis ⚽📊
 
