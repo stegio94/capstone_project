@@ -1,82 +1,143 @@
-IN PROGRESS...
+⚽ Premier League Match Performance Analysis (Capstone Project)
+📌 Project Overview
 
-⚽ Premier League Match Performance Analysis (2024/2025) 📌 Project Overview
-Football is more than just goals and results — it is about performance, patterns, and small details that make the difference on the pitch.
+This project analyses Premier League football matches to understand team performance, match results, and goal patterns using data.
 
-This project analyses match data from the Premier League 2024/2025 season to better understand how teams perform across the season. Using Python and data analysis techniques, the project looks at match results, goals, points, and home vs away performance.
+The main aim of the project is to explore how teams perform across a season and what factors influence match outcomes.
 
-The goal is to turn raw football data into clear and meaningful insights, just like analysing a match after the final whistle.
+The project focuses only on the Premier League, as this is the main question of the capstone project.
 
-🏟️ Dataset Description
+❓ Project Questions
 
-The dataset contains match-level data from the Premier League 2024/2025 season.
+This project was built to answer the following questions:
+
+How do matches usually end in the Premier League?
+(Home win, draw, or away win)
+
+How many goals are scored in Premier League matches?
+Both in total and on average per match.
+
+Which teams perform best during the season?
+Based on points, goals, and match results.
+
+Is there a home advantage in the Premier League?
+Do teams perform better at home than away?
+
+How does team performance change between home and away matches?
+Comparing goals scored and points earned.
+
+Are matches generally high-scoring or low-scoring?
+Looking at goal patterns and match outcomes.
+
+Can data help explain differences in team playing styles?
+For example, attacking teams vs more defensive teams.
+
+These questions guide the analysis and help turn raw data into clear football insights.
+
+❓ Why the Premier League?
+
+The Premier League is:
+
+one of the most competitive football leagues
+
+rich in match data
+
+ideal for analysing goals, results, and team performance
+
+By focusing on one league only, the analysis stays clear, fair, and meaningful.
+
+📂 Dataset Description
+
+The dataset contains match-level data from a Premier League season.
 
 Each row represents one football match, including:
 
-Home team and away team
+home and away teams
 
-Goals scored
+goals scored at half-time and full-time
 
-Match result
+match outcome (home win, draw, away win)
 
-Points awarded to each team
+points awarded
 
-The data is well structured and consistent, which makes it suitable for analysis without heavy cleaning.
+goal difference
 
-🧠 What This Project Looks At
+The dataset is well structured and suitable for data analysis and visualisation.
 
-This analysis focuses on key football questions, such as:
+🛠 Tools & Technologies Used
 
-Do teams perform better at home?
+Python (pandas, matplotlib)
 
-How are points distributed across teams?
+Jupyter Notebook – for data cleaning and analysis
 
-What patterns appear in match results?
+Power BI – for interactive dashboards and visual insights
 
-How goal differences affect outcomes
+GitHub – for version control and project sharing
 
-Each step is explained clearly, using simple language, so the insights are easy to follow — even for someone without a technical background.
+📊 Exploratory Data Analysis (EDA)
 
-🛠️ Tools & Technologies Used
+The analysis was carried out in a Jupyter Notebook.
 
-Python – for data analysis
+Key areas explored include:
 
-Pandas – to clean and manipulate match data
+distribution of match outcomes
 
-Matplotlib / Seaborn – to create visualisations
+total and average goals per match
 
-Jupyter Notebook – to combine code, analysis, and explanations
+team performance across the season
 
-These tools help break down complex football data into easy-to-understand visuals and results.
+comparison of home and away results
 
-📊 Key Insights
+Each chart includes a short explanation and a clear insight, written in simple language.
 
-Some clear patterns emerged from the analysis:
+📈 Power BI Dashboard
 
-Home teams tend to perform better than away teams
+An interactive Power BI dashboard was created to present the analysis visually.
 
-There are noticeable differences in how teams collect points
+Dashboard Pages:
 
-Match outcomes are strongly influenced by goals scored and goal difference
+League Overview – total matches, goals, and outcomes
 
-These insights reflect real football behaviour that fans often see during the season.
+Team Performance – team comparison based on points
 
-🧾 Project Structure
+Goals & Match Insights – goal patterns and results
 
-Capstone_project.ipynb – main notebook with analysis and visualisations
+Home vs Away Performance – home advantage analysis
 
-README.md – project overview and explanation
+Additional Insights – supporting summaries
 
-Charts and tables are included directly in the notebook for easy reading
+Filters and slicers allow users to interact with the data and focus on specific teams.
 
-🏁 Conclusion
+📌 Key Insights
 
-This project shows how football data can be used to better understand match performance and results. By analysing Premier League matches from the 2024/2025 season, meaningful patterns and insights were discovered.
+Some of the main findings from the project:
 
-Just like breaking down a game after watching Match of the Day, this analysis turns numbers into a clear football story.
+Home teams generally earn more points than away teams
 
-🙌 Final Note
+Matches with more goals often result in clear outcomes
 
-This project was created as a capstone project and reflects both technical skills and a personal interest in football. The aim was not just to analyse data, but to make the results easy to understand and enjoyable to read.
+Team performance differs strongly between home and away games
 
-⚽📊
+The Premier League shows strong competition across teams
+
+These insights match real football behaviour in the league.
+
+🎯 Conclusion
+
+This project shows how data analytics can be used to analyse football performance in a clear and practical way.
+
+By combining:
+
+Python-based analysis
+
+clear visualisations
+
+interactive Power BI dashboards
+
+the project demonstrates a complete data analysis workflow, from raw data to insights.
+
+👤 Author
+
+Stefano
+Final Capstone Project
+Premier League Data Analysis ⚽📊
