@@ -5,7 +5,11 @@ This project analyses Premier League football matches to understand team perform
 
 The main aim of the project is to explore how teams perform across a season and what factors influence match outcomes.
 
+<<<<<<< HEAD
 The project focuses only on the Premier League, as this is the main question of the capstone project.
+=======
+The project focuses only on the Premier League.
+>>>>>>> 0796d7d0f0c0dfcc4d4926beaee880172edf59aa
 
 ❓ Project Questions
 
@@ -117,6 +121,7 @@ Home teams generally earn more points than away teams
 Matches with more goals often result in clear outcomes
 
 Team performance differs strongly between home and away games
+<<<<<<< HEAD
 
 The Premier League shows strong competition across teams
 
@@ -141,3 +146,32 @@ the project demonstrates a complete data analysis workflow, from raw data to ins
 Stefano
 Final Capstone Project
 Premier League Data Analysis ⚽📊
+=======
+
+The Premier League shows strong competition across teams
+
+These insights match real football behaviour in the league.
+
+🎯 Conclusion
+
+This project shows how data analytics can be used to analyse football performance in a clear and practical way.
+
+By combining:
+
+Python-based analysis
+
+clear visualisations
+
+interactive Power BI dashboards
+
+the project demonstrates a complete data analysis workflow, from raw data to insights.
+
+👤 Author
+
+Stefano
+
+
+Final Capstone Project
+Premier League Data Analysis ⚽📊
+
+>>>>>>> 0796d7d0f0c0dfcc4d4926beaee880172edf59aa
